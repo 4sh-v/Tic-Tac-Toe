@@ -5,7 +5,7 @@ It runs entirely in the browser — no backend or database required.
 
 ## 🔗 Play the Game
 
-👉 https://github-ashwin.github.io/Tic-Tac-Toe/
+Active Link:
 
 ## Features
 
